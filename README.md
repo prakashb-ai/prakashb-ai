@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakashb-ai
 - 👀 I’m interested in ...codings and making games
-- 🌱 I’m currently learning ...backend languagge
+- 🌱 I’m currently learning ...FULL STACK DEVELOPER
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...prakashbodicse@gmail.com
 
